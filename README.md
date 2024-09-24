@@ -27,7 +27,7 @@ jupyter lab: 쥬피터 랩 구동
 
 실습 데이터 셋과 모델 파일은 Google Drive에 있습니다. 
 
-[실습 Google Drive 경로]()
+[실습 Google Drive 경로](https://drive.google.com/drive/folders/1B2MWhhEjf1HChP85n9mp8Bp-UvqdvLLA)
 
 
 ## 실습 환경 구축 방법
