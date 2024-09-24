@@ -1,5 +1,45 @@
 # 실전! AI 추천 시스템 알고리즘 이해 및 구현, 2024년 9월 강의
 
+## 강의 목차
+
+### 1일차
+
+**오전**
+
+1. MovieLens 데이터셋 소개
+
+2. 추천 시스템 개론 I - 초간단 추천 로직 만들기
+
+**오후**
+
+2. 추천 시스템 개론 II
+
+3. 머신 러닝 I - 지도학습
+
+### 2일차
+
+**오전**
+
+3. 머신 러닝 II - 비지도학습
+
+4. Matrix Factorization 1-1
+
+**오후**
+
+4. Matrix Factorization 1-2
+
+5. Matrix Factorization 2
+
+### 3일차
+
+**오전**
+
+6. Matrix Factorization 3
+
+**오후**
+
+7. Negative Sampling
+
 ## 실습 환경 구동 방법
 
 윈도우즈 명령 프롬프트에 진입합니다. (Windows -> 실행 -> cmd)
